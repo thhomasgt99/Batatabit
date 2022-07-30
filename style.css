@@ -155,9 +155,8 @@ main{
     margin: 0 auto;
 }
 .currency-table--container table{
-   width: 100%;
-   height: 25%;
-    
+    width: 100%;
+    height: 25%;
 }
 .currency-table--container td{
     width: 50%;
@@ -242,7 +241,6 @@ main{
     font-weight: 300;
     color: var(--warm-black);
 }
-/*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
 .main-product-detail {
     position: relative;
     width: 100%;
